@@ -1,2 +1,2 @@
 # ws20-bacup-medic
-An analysis project based on R to attain certain business target
+A project based on R, to analyse medical records and transactions of over 6000 physicians (doctors) and their interactions (specifically interest in ownership) with different pharmaceutical companies. The business-focused aim of the project is to predict whether any incoming new physician will have any ownership interest in a particular company, after analysing the new physician's data.
