@@ -1,0 +1,1 @@
+Copy all data from BA_Cup_raw_data.zip into this folder
